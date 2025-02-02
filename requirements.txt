@@ -2,3 +2,4 @@ python-telegram-bot
 groq
 python-dotenv
 gunicorn
+nest_asyncio 
