@@ -12,8 +12,8 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # Configuration
-TELEGRAM_TOKEN = "7860243128:AAFA71x-CJSioQt9c4nxvDJ9Ntr9h4o0kRk"
-GROQ_API_KEY = "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"
+TELEGRAM_TOKEN ="ff"
+GROQ_API_KEY = "gsk_xxx"
 DB_FILE = "chat_history.db"
 # Add this line
 nest_asyncio.apply()  # Add this line
